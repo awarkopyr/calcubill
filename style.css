@@ -1,0 +1,29 @@
+:root {
+    --bs-font-sans-serif: "Roboto", sans-serif;
+    --bs-blue: #e3e3e3;
+    --bs-primary: #e3e3e3;
+    --background-color:#e3e3e3;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    color: white;
+}
+.card {
+    background-color: #272639;
+    border-radius: 5%;
+}
+body {
+    background-color: #8990ec;
+}
+.btn{
+    border-radius: 100%;
+}
+.people{
+    width: 50%;
+}
+.perPerson{
+    width: 50%;
+    text-align: end;
+}
